@@ -1,0 +1,6 @@
+env.sh
+dist/
+dev/
+.vscode/
+.DS_Store
+
